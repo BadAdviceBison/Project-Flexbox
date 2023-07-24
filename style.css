@@ -4,8 +4,6 @@
     font-family: Hero
 }
 
-body {
-}
 .block1,
 .block2,
 .block3,
@@ -16,7 +14,6 @@ body {
 .block1 {
     height: 400px;
     background: #1f2937;
-    /* align-items: center; */
 }
 
 .header {
@@ -25,7 +22,6 @@ body {
     height: 50px;
     width: 100%;
     align-items: center;
-    /* margin-bottom: 75px; */
 }
 
 .logo img{
