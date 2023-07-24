@@ -138,8 +138,8 @@ button.footercta {
     display:flex;
     flex-direction: column;
     height: 45vh;
-    background-color: rebeccapurple;
-    color: white;
+    background-color: darkblue;
+    color: aquamarine;
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
@@ -155,7 +155,7 @@ button.footercta {
 .block4 {
     display: flex;
     height: 30vh;
-    background-color: aquamarine;
+    background-color: white;
     justify-content: center;
     align-items: center;
 }
