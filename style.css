@@ -178,6 +178,8 @@ button.footercta {
 }
 
 button.footercta {
-    border: solid white 2px;
+    /* border: solid white 2px; 
+    This border somehow stops the button from animating. 
+    Also note that the buttons appear to start in depressed state and click makes them come back up.*/
     width: 160px;
 }
